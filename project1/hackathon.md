@@ -1,4 +1,4 @@
-```md
+
 # Human vs AI Genomics Audit Hackathon
 
 ## Theme
@@ -252,4 +252,3 @@ Instead, participants learn that modern researchers must be able to:
 - teach others how to use AI responsibly in genome sequence analysis.
 
 The goal is to develop researchers who can work **with AI**, while maintaining scientific rigour, critical thinking and reproducible research practices.
-```
