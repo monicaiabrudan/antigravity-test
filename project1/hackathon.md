@@ -9,7 +9,7 @@
 
 # Overview
 
-In this hackathon, participants work in teams to evaluate, reproduce and improve an AI-generated solution to a real genome sequence analysis project.
+In this hackathon, participants work in teams to evaluate an AI-generated solution to a real genome sequence analysis project.
 
 Rather than competing against AI, participants act as **scientific reviewers**, assessing whether an AI-generated workflow is:
 
