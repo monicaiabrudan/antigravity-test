@@ -186,7 +186,7 @@ A revised workflow and recommendation.
 
 ---
 
-# Challenge 5 – Teach the AI
+# Challenge 5 –  How to critically evaluate AI-generated bioinformatics work
 
 Imagine you are delivering this project to future students.
 
