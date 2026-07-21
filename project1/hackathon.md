@@ -154,7 +154,7 @@ A revised workflow.
 
 ---
 
-# Challenge 4 – Teach the AI
+# Challenge 4 –  How to critically evaluate AI-generated bioinformatics work
 
 Imagine you are delivering this project to future students.
 
